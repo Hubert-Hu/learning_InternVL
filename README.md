@@ -1,5 +1,6 @@
-<div align="center">
 
+<div align="center">
+Clone InternVL to learn the code implementation of VLM.
 # InternVL Family: Closing the Gap to Commercial Multimodal Models with Open-Source Suites —— A Pioneering Open-Source Alternative to GPT-5
 
 <div align="center">
